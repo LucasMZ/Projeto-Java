@@ -5,4 +5,4 @@ A ideia do projeto foi baseada no conceito de uma livraria que pudesse ofertar o
 Também o projeto oferece a função administrador da livraria que permite cadastrar novos livros.
 Sobre o Projeto:
 O Projeto em si consiste na utilização de recursos da linguagem java incluindo a criação de Classes, objetos, métodos e a importação de modulos
-como java.util
+como java.util.array
