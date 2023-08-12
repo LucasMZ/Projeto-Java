@@ -7,5 +7,5 @@ Sobre o Projeto:
 O Projeto em si consiste na utilização de recursos da linguagem java incluindo a criação de Classes, objetos, métodos e a importação de modulos
 como java.util.array.
 <br>
-<a href="https://youtu.be/gCP_Ily_L0I">Link do video no YouTube</a>
+<a href="https://youtu.be/gCP_Ily_L0I">Link do video explicativo no YouTube</a>
 <img src="livraria.png">
