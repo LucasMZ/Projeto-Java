@@ -6,4 +6,5 @@ Também o projeto oferece a função administrador da livraria que permite cadas
 Sobre o Projeto:
 O Projeto em si consiste na utilização de recursos da linguagem java incluindo a criação de Classes, objetos, métodos e a importação de modulos
 como java.util.array
+<a href="https://youtu.be/gCP_Ily_L0I">Link do video no YouTube</a>
 <img src="livraria.png">
